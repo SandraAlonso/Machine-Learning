@@ -1,5 +1,5 @@
 # Machine-Learning
-Supervised and unsupervised learning assignment from the Machine Learning Subject of the Computational Biology Masters Degree (UPM).
+Supervised and unsupervised learning assignments from the Machine Learning Subject of the Computational Biology Masters Degree (UPM).
 
 
 ## Supervised Learning Assignment:
